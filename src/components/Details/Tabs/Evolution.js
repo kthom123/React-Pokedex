@@ -16,7 +16,7 @@ function Evolution( { pokemon, onPokemonChange } ) {
 
 			{ ! isLoading && ! evolutionChain.length &&
                 <div>
-                    This pokemon doesn't evolve
+                    This Pokémon doesn't evolve
                 </div>
 			}
 
