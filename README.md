@@ -1,6 +1,6 @@
 # React Pokedex
 
-A Pokedex app created using [PokeAPI](https://pokeapi.co/docs/v2)
+A Pokedex application created using [PokeAPI](https://pokeapi.co/docs/v2)
 
 !["Preview Image"](./img/preview-0.png)
 
